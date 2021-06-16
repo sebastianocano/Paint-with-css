@@ -17,12 +17,9 @@ color:  white;
 
 p {
   /* change any properties you want try: width, height, font-size, line-height, margin-top google some new ones too! */
-background-color: rgb(red, green, blue);
+background-color: turquoise;
 font-style:   unset;
-line-height: 50px;
 font-size: 20px;
-shape-margin:   0pt;
 color: transparent;
 width: 350px;
-
 }
